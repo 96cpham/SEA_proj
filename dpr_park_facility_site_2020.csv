@@ -1,0 +1,900 @@
+ParkName,ParkID,ZipCode,FacilityName,FacilityID,SiteType
+Fort Ross SHP,1126,94550,Reef Campground,1969,Tent Campsite
+Grover Hot Springs SP,651,96120,Hot Springs Campground (sites 1-36),494,Tent Campsite
+Grover Hot Springs SP,651,96120,Hot Springs Campground (sites 37-76),495,Tent 
+Indian Grinding Rock SHP,659,95665,Indian Grinding Rock Campground,516,Group Primitive Campsite
+Indian Grinding Rock SHP,659,95665,Indian Grinding Rock Campground,516,Hook Up (E/W/S) Campsite
+Bidwell-Sacramento River SP,1093,95973,Irvine Finch Access,965,Hike/Bike Campsite
+Bidwell-Sacramento River SP,1093,95973,Irvine Finch Access,965,Hook Up (E/W/S) Campsite
+Bidwell-Sacramento River SP,1093,95973,Irvine Finch Access,965,Tent Campsite
+Lake Oroville SRA,662,95966,Bloomer North Fork Trail Camp,520,Hike In Primitive Campsite
+Lake Oroville SRA,662,95966,Floating Camping Area,522,Floating Camp Campsite
+Lake Oroville SRA,662,95966,Group Boat-In Area,525,Boat In Campsite
+Lake Oroville SRA,662,95966,Lime Saddle Campground,526,Campsite
+Lake Oroville SRA,662,95966,Lime Saddle Campground,526,Hook Up (E/W) Campsite
+Lake Oroville SRA,662,95966,Lime Saddle Group Camps,527,Group Tent Campsite
+Lake Oroville SRA,662,95966,Loafer Creek Group Camps,528,Group Tent Campsite
+Lake Oroville SRA,662,95966,Bidwell Canyon (sites 40-75),544,Hook Up (E/W/S) Campsite
+Lake Oroville SRA,662,95966,Loafer Creek Camp (sites 1-43),547,Campsite
+Lake Oroville SRA,662,95966,Loafer Creek Horse Campground,575,Equestrian Campsite
+Lake Oroville SRA,662,95966,Bidwell Canyon (sites 1-39),797,Hook Up (E/W/S) Campsite
+Lake Oroville SRA,662,95966,Loafer Creek Camp (sites 44-81),798,Campsite
+Lake Oroville SRA,662,95966,Loafer Creek Camp (sites 82-137),799,Campsite
+Lake Oroville SRA,662,95966,Bloomer Knoll boat-in campground,1995,Boat In Campsite
+Lake Oroville SRA,662,95966,Bloomer Point boat-in campground,1996,Boat In Campsite
+Lake Oroville SRA,662,95966,Craig Saddle boat-in campground,1997,Boat In Campsite
+Lake Oroville SRA,662,95966,Foreman Creek boat-in campground,1998,Boat In Campsite
+Lake Oroville SRA,662,95966,Goat Ranch boat-in campground,1999,Boat In Campsite
+Calaveras Big Trees SP,5,95223,Group Camping,342,Group Camping
+Calaveras Big Trees SP,5,95223,Group Camping,342,Group Campsite
+Calaveras Big Trees SP,5,95223,Group Camping,342,Group Tent Campsite
+Calaveras Big Trees SP,5,95223,North Grove Environmental,343,Tent Hike In Primitive Campsite
+Calaveras Big Trees SP,5,95223,North Grove (sites 1-26),344,Campsite
+Calaveras Big Trees SP,5,95223,North Grove (sites 1-26),344,Group Campsite
+Calaveras Big Trees SP,5,95223,North Grove (sites 1-26),344,Hook Up (E/W/S) Campsite
+Calaveras Big Trees SP,5,95223,North Grove (sites 1-26),344,Tent Campsite
+Calaveras Big Trees SP,5,95223,North Grove (sites 27-59),346,Campsite
+Calaveras Big Trees SP,5,95223,North Grove (sites 27-59),346,Group Tent Campsite
+Calaveras Big Trees SP,5,95223,North Grove (sites 27-59),346,Tent Campsite
+Calaveras Big Trees SP,5,95223,North Grove (sites 60-74),348,Campsite
+Calaveras Big Trees SP,5,95223,North Grove (sites 60-74),348,Tent Campsite
+Calaveras Big Trees SP,5,95223,Oak Hollow Campground,349,Campsite
+Calaveras Big Trees SP,5,95223,Oak Hollow Campground,349,Hike In Primitive Campsite
+Calaveras Big Trees SP,5,95223,Oak Hollow Campground,349,Hook Up (E/W/S) Campsite
+Calaveras Big Trees SP,5,95223,Oak Hollow Campground,349,Tent Campsite
+Calaveras Big Trees SP,5,95223,Oak Hollow Environmental North,354,Tent Hike In Primitive Campsite
+Calaveras Big Trees SP,5,95223,Oak Hollow Environmental South,355,Tent Hike In Primitive Campsite
+Calaveras Big Trees SP,5,95223,Residence Cabin Area,356,Cabin (6 People)
+Calaveras Big Trees SP,5,95223,Residence Cabin Area,356,Cabin (8 People)
+Calaveras Big Trees SP,5,95223,Residence Cabin Area,356,Hook Up (E/W/S) Campsite
+Colusa-Sacramento River SRA,632,95932,River Campground (sites 2-14),446,Campsite
+Colusa-Sacramento River SRA,632,95932,River Campground (sites 2-14),446,Group Camping
+Colusa-Sacramento River SRA,632,95932,River Campground (sites 2-14),446,Hook Up (E ) Campsite
+Colusa-Sacramento River SRA,632,95932,River Campground (sites 2-14),446,Hook Up (E/W/S) Campsite
+Colusa-Sacramento River SRA,632,95932,River Campground (sites 2-14),446,Premium Hook Up (E ) Campsite
+Colusa-Sacramento River SRA,632,95932,Colusa,1959,Boat Campsite
+Colusa-Sacramento River SRA,632,95932,Colusa,1959,Enroute Campsite
+Mount Diablo SP,683,94517,Live Oak Campground,585,Campsite
+Mount Diablo SP,683,94517,Group Campsites,591,Equestrian Group Primitive Campsite
+Mount Diablo SP,683,94517,Group Campsites,591,Group Primitive Campsite
+Mount Diablo SP,683,94517,Group Campsites,591,Group Tent Primitive Campsite
+Mount Diablo SP,683,94517,Juniper Campground,592,Campsite
+Mount Diablo SP,683,94517,Junction Campground,2007,Campsite
+Mount Diablo SP,683,94517,Junction Campground,2007,Hike/Bike Campsite
+Del Norte Coast Redwood SP Mill Creek Campground,638,95531,Mill Creek Southern Loop (sites 1-74),460,Tent Campsite
+Del Norte Coast Redwood SP Mill Creek Campground,638,95531,Mill Creek Northern Loop (sites 75-145),461,Campsite
+Jedediah Smith Redwoods SP,660,95531,"Main Loop (sites 1-44, 92-106)",517,Tent Campsite
+Jedediah Smith Redwoods SP,660,95531,"Outer Loop (sites 45-60, 76-91)",791,Tent Only - Walk-In
+Jedediah Smith Redwoods SP,660,95531,Redwoods Cabin Area,903,Cabin (6 People)
+Jedediah Smith Redwoods SP,660,95531,Redwoods Cabin Area,903,Hike In Primitive Campsite
+Jedediah Smith Redwoods SP,660,95531,Redwoods Cabin Area,903,Hook Up (E/W/S) Campsite
+D.L. Bliss SP,637,96150,Group Camp,451,Group Tent Campsite
+D.L. Bliss SP,637,96150,Lower Pine (sites 1-32),453,Tent Campsite
+D.L. Bliss SP,637,96150,Beach Camp (sites 141-165),454,Premium Campsite
+D.L. Bliss SP,637,96150,Upper Pine (sites 33-88),455,Tent Campsite
+D.L. Bliss SP,637,96150,West Ridge Campground (sites 113 - 130),458,Tent Campsite
+Emerald Bay SP,641,96150,Boat-In Camp Area,469,Boat In Primitive Campsite
+Emerald Bay SP,641,96150,Boat-In Camp Area,469,Hook Up Campsite
+Emerald Bay SP,641,96150,Lower Eagle Point (sites 34-100),472,Campsite
+Emerald Bay SP,641,96150,Upper Eagle Point (sites 1-33),786,Campsite
+D.L. Bliss SP,637,96150,East Ridge Campground (sites 91-112),2154,Tent Campsite
+Sugar Pine Point SP,724,96142,General Creek Group Camping,720,Group Campsite
+Sugar Pine Point SP,724,96142,Picnic Area,722,Group Day Use
+Sugar Pine Point SP,724,96142,General Creek Western Loop (sites 126-175),723,Campsite
+Sugar Pine Point SP,724,96142,General Creek Eastern Loop (sites 33-59),725,Campsite
+Sugar Pine Point SP,724,96142,General Creek Middle Loop (sites 76-125),726,Bike In 
+Sugar Pine Point SP,724,96142,Enroute,2064,Enroute Campsite
+Millerton Lake SRA,678,93626,Meadows Loop (sites 92-148),543,Campsite
+Millerton Lake SRA,678,93626,Meadows Loop (sites 92-148),543,Hook Up (E/W) Campsite
+Millerton Lake SRA,678,93626,Meadows Loop (sites 92-148),543,Hook Up (E/W/S) Campsite
+Millerton Lake SRA,678,93626,North Shore Group Camp,572,Group Camping
+Millerton Lake SRA,678,93626,North Shore Group Camp,572,Group Campsite
+Millerton Lake SRA,678,93626,Rocky Point and Mono Loops (sites 1-37),1119,Campsite
+Millerton Lake SRA,678,93626,Rocky Point and Mono Loops (sites 1-37),1119,Hook Up (E/W/S) Campsite
+Millerton Lake SRA,678,93626,Rocky Point and Mono Loops (sites 1-37),1119,Tent Campsite
+Millerton Lake SRA,678,93626,Fort Miller and Dumna Strands Loops (sites 38-84),1120,Campsite
+Millerton Lake SRA,678,93626,Fort Miller and Dumna Strands Loops (sites 38-84),1120,Hook Up (E/W/S) Campsite
+Millerton Lake SRA,678,93626,Fort Miller and Dumna Strands Loops (sites 38-84),1120,Primitive Campsite
+Millerton Lake SRA,678,93626,Fort Miller and Dumna Strands Loops (sites 38-84),1120,Tent Campsite
+Millerton Lake SRA,678,93626,Valley Oak Loop (sites 85-90),1121,Campsite
+Millerton Lake SRA,678,93626,Valley Oak Loop (sites 85-90),1121,Primitive Campsite
+Millerton Lake SRA,678,93626,Horse Camp,2120,Equestrian Tent Campsite
+Grizzly Creek Redwoods SP,650,95528,River Campground (sites 1-30),493,Campsite
+Grizzly Creek Redwoods SP,650,95528,River Campground (sites 1-30),493,Group Tent Campsite
+Grizzly Creek Redwoods SP,650,95528,River Campground (sites 1-30),493,Hike In Primitive Campsite
+Grizzly Creek Redwoods SP,650,95528,River Campground (sites 1-30),493,Hook Up (E/W/S) Campsite
+Grizzly Creek Redwoods SP,650,95528,River Campground (sites 1-30),493,Tent Campsite
+Richardson Grove SP,700,95542,Dawn Redwood Group Area,637,Group Campsite
+Richardson Grove SP,700,95542,Oak Flat Upper Section (121-165),638,Campsite
+Richardson Grove SP,700,95542,Oak Flat Upper Section (121-165),638,Tent Campsite
+Richardson Grove SP,700,95542,Huckleberry Campground (sites 1-36),639,Campsite
+Richardson Grove SP,700,95542,Huckleberry Campground (sites 1-36),639,Hike In Primitive Campsite
+Richardson Grove SP,700,95542,Huckleberry Campground (sites 1-36),639,Hook Up (E/W/S) Campsite
+Richardson Grove SP,700,95542,Huckleberry Campground (sites 1-36),639,Tent Campsite
+Richardson Grove SP,700,95542,Madrone Campground (sites 37-76),642,Campsite
+Richardson Grove SP,700,95542,Madrone Campground (sites 37-76),642,Tent Campsite
+Richardson Grove SP,700,95542,"Oak Flat Lower Section (77-120, 166-170)",644,Campsite
+Richardson Grove SP,700,95542,"Oak Flat Lower Section (77-120, 166-170)",644,Tent Campsite
+Richardson Grove SP,700,95542,Madrone Cabin Area,768,Cabin (2 People)
+Richardson Grove SP,700,95542,Madrone Cabin Area,768,Cabin (3 People)
+Benbow SRA,617,95542,Lower Loop (sites 1-21),779,Campsite
+Benbow SRA,617,95542,Lower Loop (sites 1-21),779,Hook Up (E/W/S) Campsite
+Benbow SRA,617,95542,Middle Loop (sites 22-47),780,Campsite
+Benbow SRA,617,95542,Middle Loop (sites 22-47),780,Tent Campsite
+Benbow SRA,617,95542,Upper Loop (sites 48-75),781,Campsite
+Benbow SRA,617,95542,Upper Loop (sites 48-75),781,Tent Campsite
+Richardson Grove SP,700,95542,Richardson Grove Maintenance Yard,2039,Hook Up (E/W/S) Campsite
+Prairie Creek Redwoods SP Elk Prairie Campground,696,95555,Elk Prairie Campground (sites 1-75),631,Campsite
+Prairie Creek Redwoods SP Elk Prairie Campground,696,95555,Elk Prairie Campground (sites 1-75),631,Hike In Primitive Campsite
+Prairie Creek Redwoods SP Elk Prairie Campground,696,95555,Elk Prairie Campground (sites 1-75),631,Hook Up (E/W/S) Campsite
+Prairie Creek Redwoods SP Gold Bluffs Beach Campg,697,95555,Gold Bluffs Beach Campground (sites 1-26),632,Hike In Primitive Campsite
+Prairie Creek Redwoods SP Gold Bluffs Beach Campg,697,95555,Gold Bluffs Beach Campground (sites 1-26),632,Hook Up (E/W/S) Campsite
+Prairie Creek Redwoods SP Gold Bluffs Beach Campg,697,95555,Gold Bluffs Beach Campground (sites 1-26),632,Tent Campsite
+Prairie Creek Redwoods SP Elk Prairie Campground,696,95555,Meadow Cabin Colony,914,Cabin (6 People)
+Patricks Point SP,688,95570,Abalone Campground (sites 16-85),602,Campsite
+Patricks Point SP,688,95570,Abalone Campground (sites 16-85),602,Hook Up (E/W/S) Campsite
+Patricks Point SP,688,95570,Abalone Campground (sites 16-85),602,Tent Campsite
+Patricks Point SP,688,95570,Agate Campground (sites 86-124),603,Campsite
+Patricks Point SP,688,95570,Agate Campground (sites 86-124),603,Hook Up (E/W/S) Campsite
+Patricks Point SP,688,95570,Group Camping Areas,604,Group Tent Campsite
+Patricks Point SP,688,95570,Bishop Pine Group Picnic Area,605,Group Day Use
+Patricks Point SP,688,95570,Penn Creek Campground (sites 1-15),606,Tent Campsite
+Patricks Point SP,688,95570,Sumeg Group Picnic Area,608,Group Day Use
+Humboldt Lagoons SP,1137,95570,Dry Lagoon E-Camp,1977,Hike In Primitive Campsite
+Humboldt Lagoons SP,1137,95570,Stone Lagoon Boat-In Campground,1978,Boat In Primitive Campsite
+Patricks Point SP,688,95570,Hike & Bike campground,2018,Hike/Bike Campsite
+Patricks Point SP,688,95570,Patricks Point SP Maintenance Yard,2019,Hook Up (E/W/S) Campsite
+Patricks Point SP,688,95570,Agate Cabin Area,2150,Cabin (6 People)
+Humboldt Redwoods SP,657,95571,Albee Creek Camp,507,Campsite
+Humboldt Redwoods SP,657,95571,Albee Creek Camp,507,Hook Up (E/W/S) Campsite
+Humboldt Redwoods SP,657,95571,Albee Creek Camp,507,Tent Campsite
+Humboldt Redwoods SP,657,95571,Baxter Environmental Camp,508,Hike In Primitive Campsite
+Humboldt Redwoods SP,657,95571,Burlington Camp,509,Campsite
+Humboldt Redwoods SP,657,95571,Burlington Camp,509,Hike In Primitive Campsite
+Humboldt Redwoods SP,657,95571,Burlington Camp,509,Hook Up (E/W/S) Campsite
+Humboldt Redwoods SP,657,95571,Burlington Camp,509,Tent Campsite
+Humboldt Redwoods SP,657,95571,Cuneo Creek Horse Camp,510,Equestrian Campsite
+Humboldt Redwoods SP,657,95571,Cuneo Creek Horse Camp,510,Equestrian Group Campsite
+Humboldt Redwoods SP,657,95571,Cuneo Creek Horse Camp,510,Equestrian Group Primitive Campsite
+Humboldt Redwoods SP,657,95571,Cuneo Creek Horse Camp,510,Hook Up (E/W/S) Campsite
+Humboldt Redwoods SP,657,95571,Hamilton Barn Environmental Camp,511,Hike In Primitive Campsite
+Humboldt Redwoods SP,657,95571,"Hidden Springs Camp (sites 1-38, 51-78)",512,Campsite
+Humboldt Redwoods SP,657,95571,"Hidden Springs Camp (sites 1-38, 51-78)",512,Tent Campsite
+Humboldt Redwoods SP,657,95571,"Hidden Springs Camp (sites 39-50,79-86,142-155)",513,Campsite
+Humboldt Redwoods SP,657,95571,"Hidden Springs Camp (sites 39-50,79-86,142-155)",513,Tent Campsite
+Humboldt Redwoods SP,657,95571,Marin Group Camp,514,Group Tent Campsite
+Humboldt Redwoods SP,657,95571,Williams Grove Group Camp,515,Group Camping
+Humboldt Redwoods SP,657,95571,Williams Grove Group Camp,515,Group Campsite
+Humboldt Redwoods SP,657,95571,Hidden Springs Camp (sites 87-141),792,Tent Campsite
+Humboldt Redwoods SP,657,95571,Johnson Trail Camp,1979,Hike In Primitive Campsite
+Humboldt Redwoods SP,657,95571,Trail Camp Bull Creek,1980,Hike In Primitive Campsite
+Humboldt Redwoods SP,657,95571,Trail Camp Grasshopper,1981,Hike In Primitive Campsite
+Humboldt Redwoods SP,657,95571,Trail Camp Hansen Ridge,1982,Hike In Primitive Campsite
+Humboldt Redwoods SP,657,95571,Trail Camp Whiskey Flat,1983,Hike In Primitive Campsite
+Humboldt Redwoods SP,657,95571,Visitor Center Host Area,1984,Hook Up (E/W/S) Campsite
+Sinkyone Wilderness SP,1212,95589,Anderson Camp,2049,Hike In Primitive Campsite
+Sinkyone Wilderness SP,1212,95589,Barn,2050,Cabin (3 People)
+Sinkyone Wilderness SP,1212,95589,Barnside Camps,2051,Hike In Primitive Campsite
+Sinkyone Wilderness SP,1212,95589,Bear Harbor Camp,2052,Hike In Primitive Campsite
+Sinkyone Wilderness SP,1212,95589,Jones Beach Camp,2053,Hike In Primitive Campsite
+Sinkyone Wilderness SP,1212,95589,Little Jackass Creek Camp,2054,Hike In Primitive Campsite
+Sinkyone Wilderness SP,1212,95589,Needle Rock Visitor Center Host,2055,Cabin (2 People)
+Sinkyone Wilderness SP,1212,95589,Orchard Camp,2056,Hike In Primitive Campsite
+Sinkyone Wilderness SP,1212,95589,Railroad Camp,2057,Hike In Primitive Campsite
+Sinkyone Wilderness SP,1212,95589,Streamside Camp,2058,Hike In Primitive Campsite
+Sinkyone Wilderness SP,1212,95589,Usal Beach,2059,Tent Primitive Campsite
+Sinkyone Wilderness SP,1212,95589,Wheeler Camp,2060,Hike In Primitive Campsite
+Picacho SRA,1181,92283,4-S Beach Boat-In Camp and Drive-In,2021,Boat In Campsite
+Picacho SRA,1181,92283,Carrizo Boat-In Camp,2022,Group Boat-In Campsite
+Picacho SRA,1181,92283,Drive-In Group Site,2023,Group Primitive Campsite
+Picacho SRA,1181,92283,Group Canoe Camp,2024,Group Boat-In Campsite
+Picacho SRA,1181,92283,Main Campground - 54 Primitive/Undeveloped sites,2025,Hook Up (E/W/S) Campsite
+Picacho SRA,1181,92283,Main Campground - 54 Primitive/Undeveloped sites,2025,Primitive Campsite
+Picacho SRA,1181,92283,Outpost Boat-In Camp,2026,Boat In Campsite
+Picacho SRA,1181,92283,Paddlewheel Boat-In Camp,2027,Group Boat-In Campsite
+Picacho SRA,1181,92283,Paddlewheel Boat-In Camp,2027,Premium Group Boat-In Campsite
+Picacho SRA,1181,92283,Taylor Lake Boat-In Camp,2028,Premium Primitive Campsite
+Red Rock Canyon SP,1194,93519,Ricardo Campground,2038,Hike In Primitive Campsite
+Red Rock Canyon SP,1194,93519,Ricardo Campground,2038,Primitive Campsite
+Fort Tejon SHP,644,93243,Fort Tejon Group Site,488,Group Primitive Campsite
+Hungry Valley SVRA,1138,93243,Aliklik Campground,1985,Campsite
+Hungry Valley SVRA,1138,93243,ATV Campground,1986,Campsite
+Hungry Valley SVRA,1138,93243,ATV Campground,1986,Off Road Vehicle Campsite
+Hungry Valley SVRA,1138,93243,Circle Canyon Campground,1987,Campsite
+Hungry Valley SVRA,1138,93243,Edison Campground,1988,Campsite
+Hungry Valley SVRA,1138,93243,HV Group Campground & Pavilion,1989,Campsite
+Hungry Valley SVRA,1138,93243,HV Group Campground & Pavilion,1989,Day Use Pavilion
+Hungry Valley SVRA,1138,93243,Lane Ranch Campground,1990,Campsite
+Hungry Valley SVRA,1138,93243,Lower Scrub Oak Campground,1991,Campsite
+Hungry Valley SVRA,1138,93243,Smith Forks Campground,1992,Campsite
+Hungry Valley SVRA,1138,93243,Smith Forks Campground,1992,Premium Campsite
+Hungry Valley SVRA,1138,93243,Sterling Campground,1993,Campsite
+Hungry Valley SVRA,1138,93243,Upper Scrub Oak Campground,1994,Campsite
+Hungry Valley SVRA,1138,93243,Cottonwood Campground,2119,Campsite
+Clear Lake SP,628,95451,Cole Creek (sites 1-26),440,Campsite
+Clear Lake SP,628,95451,Cole Creek (sites 1-26),440,Hike In Primitive Campsite
+Clear Lake SP,628,95451,Kelsey Creek (sites 27-91),442,Campsite
+Clear Lake SP,628,95451,Kelsey Creek (sites 27-91),442,Premium Campsite
+Clear Lake SP,628,95451,Lower Bay View (sites 92-112),443,Campsite
+Clear Lake SP,628,95451,Lower Bay View (sites 92-112),443,Premium Campsite
+Clear Lake SP,628,95451,Lower Bay View (sites 92-112),443,Tent Campsite
+Clear Lake SP,628,95451,Upper Bay View (sites 113-147),444,Campsite
+Clear Lake SP,628,95451,Upper Bay View (sites 113-147),444,Hook Up Campsite
+Clear Lake SP,628,95451,Upper Bay View (sites 113-147),444,Tent Campsite
+Clear Lake SP,628,95451,Group Camping Area,785,Group Campsite
+Clear Lake SP Cabins,629,95451,Cabin Colony,889,Cabin (4 People)
+Malibu Creek SP,670,91302,Group Camp Area,561,Group Campsite
+Malibu Creek SP,670,91302,Creek Campground (sites 1-63),562,Campsite
+Saddleback Butte SP,702,93535,Group Site,647,Group Campsite
+Saddleback Butte SP,702,93535,50 Primitive/Undeveloped sites,2040,Campsite
+Saddleback Butte SP,702,93535,50 Primitive/Undeveloped sites,2040,Hook Up (E/W/S) Campsite
+Saddleback Butte SP,702,93535,50 Primitive/Undeveloped sites,2040,Premium Campsite
+Leo Carrillo SP,665,90265,"Canyon Campground (sites 1-24, 78-133)",539,Campsite
+Leo Carrillo SP,665,90265,"Canyon Campground (sites 1-24, 78-133)",539,Hook Up (E ) Campsite
+Leo Carrillo SP,665,90265,Canyon Group Camp,541,Group Campsite
+Leo Carrillo SP,665,90265,"Canyon Campground (sites 25-77, 134-139)",542,Campsite
+Leo Carrillo SP,665,90265,"Canyon Campground (sites 25-77, 134-139)",542,Hook Up (E ) Campsite
+Leo Carrillo SP,665,90265,"Canyon Campground (sites 25-77, 134-139)",542,Hook Up (E/W/S) Campsite
+Point Mugu SP,694,90265,La Jolla Group,623,Group Campsite
+Point Mugu SP,694,90265,Sycamore Campground,624,Campsite
+Point Mugu SP,694,90265,Sycamore Campground,624,Hike In Primitive Campsite
+Point Mugu SP,694,90265,Sycamore Campground,624,Hike/Bike Campsite
+Point Mugu SP,694,90265,Sycamore Campground,624,Tent Campsite
+Leo Carrillo SP,665,90265,Leo Carrillo Hike & Bike,2002,Hike In/Bike In Campsite
+Point Mugu SP,694,90265,Danielson Multi Use Area,2029,Group Campsite
+Point Mugu SP,694,90265,Point Mugu-La Jolla Walk-In Camp,2030,Hike In Primitive Campsite
+Point Mugu SP,694,90265,Thornhill Broome Campground,2031,Campsite
+Topanga SP,1223,90290,"Musch Camp Hike-In, Bike-In & Equestrian Camp",2066,Hike in Campsite
+Angel Island SP,614,94920,Ayala Cove Group Picnic Area,405,Group Dailyuse (A)
+Angel Island SP,614,94920,Ayala Cove Group Picnic Area,405,Group Dailyuse (B)
+Angel Island SP,614,94920,Ayala Cove Group Picnic Area,405,Group Dailyuse (C)
+Angel Island SP,614,94920,East Bay (sites 1-3),406,Hike in Campsite
+Angel Island SP,614,94920,West Garrison (sites 10 & Kayak),407,Group Tent Campsite
+Angel Island SP,614,94920,West Garrison (sites 10 & Kayak),407,Hike in Campsite
+Angel Island SP,614,94920,Ridge (sites 4-6),408,Hike in Campsite
+Angel Island SP,614,94920,Sunrise (sites 7-9),409,Campsite
+Angel Island SP,614,94920,East Group Garrison Picnic Area,2149,Group Day Use
+Angel Island SP,614,94920,North Garrison Group Camp,2155,Group Tent Campsite
+Samuel P. Taylor SP,705,94938,Creekside Loop (sites 1-25),653,Campsite
+Samuel P. Taylor SP,705,94938,Creekside Loop (sites 1-25),653,Group Campsite
+Samuel P. Taylor SP,705,94938,Creekside Loop (sites 1-25),653,Tent Campsite
+Samuel P. Taylor SP,705,94938,Devil Gulch Group Camps,654,Equestrian Group Campsite
+Samuel P. Taylor SP,705,94938,Devil Gulch Group Camps,654,Group Tent Campsite
+Samuel P. Taylor SP,705,94938,Madrone Group Camping,656,Group Tent Campsite
+Samuel P. Taylor SP,705,94938,Orchard Hill Loop (sites 26-59),657,Campsite
+Samuel P. Taylor SP,705,94938,Orchard Hill Loop (sites 26-59),657,Group Camping
+Samuel P. Taylor SP,705,94938,Orchard Hill Loop (sites 26-59),657,Group Campsite
+Samuel P. Taylor SP,705,94938,Orchard Hill Loop (sites 26-59),657,Tent Campsite
+Samuel P. Taylor SP,705,94938,Group Picnic Areas,658,Group Dailyuse (A)
+Samuel P. Taylor SP,705,94938,Group Picnic Areas,658,Group Day Use
+Samuel P. Taylor SP Cabins,706,94938,Madrone Cabin Area,919,Cabin (5 People)
+Mount Tamalpais SP,682,94941,Alice Eastwood Group Camps,588,Group Primitive Campsite
+Mount Tamalpais SP,682,94941,Alice Eastwood Group Camps,588,Group Tent Primitive Campsite
+Mount Tamalpais SP,682,94941,Frank Valley Horse Camp,589,Equestrian Group Tent Campsite
+Mount Tamalpais SP,682,94941,S Rav Camp Area (sites E1-E7),590,Hike In Primitive Campsite
+Mount Tamalpais SP,682,94941,S Rav Cabin Area,766,Cabin (5 People)
+Mount Tamalpais SP,682,94941,Bootjack Campground 15-sites,2008,Tent Campsite
+Mount Tamalpais SP,682,94941,Pantoll Campgroup 16 Sites,2009,Tent Campsite
+China Camp SP,626,94901,Bay Picnic Area,435,Group Day Use
+China Camp SP,626,94901,China Camp Group Camping Area,436,Group Primitive Campsite
+China Camp SP,626,94901,Campground (sites 1-30),437,Hike in Campsite
+Navarro River Redwoods SP,1174,95432,Navarro Beach,2014,Hike/Bike Campsite
+Navarro River Redwoods SP,1174,95432,Navarro Beach,2014,Premium Primitive Campsite
+Navarro River Redwoods SP,1174,95432,Paul M. Dimmick Campground,2015,Hike In Primitive Campsite
+Navarro River Redwoods SP,1174,95432,Paul M. Dimmick Campground,2015,Primitive Campsite
+Mackerricher SP,668,95437,Cleone Group Area,553,Group Camping
+Mackerricher SP,668,95437,Cleone Group Area,553,Group Campsite
+Mackerricher SP,668,95437,Surfwood Campground,556,Campsite
+Mackerricher SP,668,95437,Surfwood Campground,556,Hike In Primitive Campsite
+Mackerricher SP,668,95437,Surfwood Campground,556,Hook Up (E/W/S) Campsite
+Mackerricher SP,668,95437,East Pinewood  Campground,557,Tent Campsite
+Mackerricher SP,668,95437,West Pinewood Campground,558,Campsite
+Mackerricher SP,668,95437,West Pinewood Campground,558,Hike/Bike Campsite
+Mackerricher SP,668,95437,West Pinewood Campground,558,Hook Up (E/W/S) Campsite
+Standish-Hickey SRA,721,95585,Redwood Campground,717,Premium Campsite
+Standish-Hickey SRA,721,95585,Redwood Campground,717,Premium Tent Campsite
+Standish-Hickey SRA,721,95585,Rock Creek Campground,718,Campsite
+Standish-Hickey SRA,721,95585,Rock Creek Campground,718,Hike In Primitive Campsite
+Standish-Hickey SRA,721,95585,Rock Creek Campground,718,Premium Campsite
+Standish-Hickey SRA,721,95585,Rock Creek Campground,718,Premium Hook Up Campsite
+Standish-Hickey SRA,721,95585,Rock Creek Campground,718,Primitive Campsite
+Standish-Hickey SRA,721,95585,Hickey Campground,719,Campsite
+Standish-Hickey SRA,721,95585,Hickey Campground,719,Premium Campsite
+Standish-Hickey SRA,721,95585,Hickey Campground,719,Primitive Campsite
+Manchester SP,671,95459,Group Camp Area,563,Campsite
+Manchester SP,671,95459,Manchester,2004,Group Tent Campsite
+Manchester SP,671,95459,Manchester,2004,Hike In Primitive Campsite
+Manchester SP,671,95459,Manchester,2004,Hike/Bike Campsite
+Manchester SP,671,95459,Manchester,2004,Hook Up (E/W/S) Campsite
+Manchester SP,671,95459,Manchester,2004,Primitive Campsite
+Russian Gulch SP,701,95460,Group Camping Area,645,Group Tent Campsite
+Russian Gulch SP,701,95460,Campground (sites 1-30),646,Campsite
+Russian Gulch SP,701,95460,Campground (sites 1-30),646,Double Hook Up (E/W/S) Campsite
+Russian Gulch SP,701,95460,Campground (sites 1-30),646,Hike/Bike Campsite
+Van Damme SP,731,95460,Lower Loop (sites 1-13),741,Campsite
+Van Damme SP,731,95460,Lower Loop (sites 1-13),741,Double Hook Up (E/W/S) Campsite
+Van Damme SP,731,95460,Little River Spur (sites 14-30),742,Campsite
+Van Damme SP,731,95460,Upper Loop (sites 31-74),743,Campsite
+Van Damme SP,731,95460,Upper Loop (sites 31-74),743,Double Hook Up (E/W/S) Campsite
+Van Damme SP,731,95460,Group Camping Area,744,Group Campsite
+Van Damme SP,731,95460,Hike in Campground (sites 1-10),745,Hike In Primitive Campsite
+Van Damme SP,731,95460,Van Damme - Beach Lot,2067,Double Hook Up (E/W/S) Campsite
+Van Damme SP,731,95460,Van Damme - Beach Lot,2067,Enroute Campsite
+Hendy Woods SP,654,95466,Azalea Campground,502,Campsite
+Hendy Woods SP,654,95466,Azalea Campground,502,Hook Up (E ) Campsite
+Hendy Woods SP,654,95466,Azalea Campground,502,Hook Up (E/W/S) Campsite
+Hendy Woods SP,654,95466,Wildcat Campground,503,Campsite
+Hendy Woods SP,654,95466,Wildcat Campground,503,Hike/Bike Campsite
+Hendy Woods SP,654,95466,Cabin Colony,759,Cabin (5 People)
+Hendy Woods SP,654,95466,Cabin Colony,759,Cabin (6 People)
+Westport-Union Landing SB,1235,95488,Westport-Union Landing SB,1103,Primitive Campsite
+Westport-Union Landing SB,1235,95488,Westport Union Landing SB Howard Creek North,2068,Primitive Campsite
+Westport-Union Landing SB,1235,95488,Westport Union Landing SB Howard Creek South,2069,Hike/Bike Campsite
+Westport-Union Landing SB,1235,95488,Westport Union Landing SB Howard Creek South,2069,Hook Up (E/W/S) Campsite
+Westport-Union Landing SB,1235,95488,Westport Union Landing SB Howard Creek South,2069,Primitive Campsite
+Westport-Union Landing SB,1235,95488,Westport-Union Landing SB � Abalone Point,2070,Hike/Bike Campsite
+Westport-Union Landing SB,1235,95488,Westport-Union Landing SB � Abalone Point,2070,Hook Up (E/W/S) Campsite
+Westport-Union Landing SB,1235,95488,Westport-Union Landing SB � Abalone Point,2070,Primitive Campsite
+Mcconnell SRA,676,95303,Group Camping Area,540,Group Campsite
+Mcconnell SRA,676,95303,Group Camping Area,540,Group Tent Campsite
+Mcconnell SRA,676,95303,Mcconnell Campground,570,Campsite
+Mcconnell SRA,676,95303,Mcconnell Campground,570,Hook Up (E/W/S) Campsite
+Mcconnell SRA,676,95303,Mcconnell Campground,570,Tent Campsite
+San Luis Reservoir SRA,711,95322,Basalt Campground (sites 1-79),667,Campsite
+San Luis Reservoir SRA,711,95322,Basalt Campground (sites 1-79),667,Hike In Primitive Campsite
+San Luis Reservoir SRA,711,95322,Basalt Campground (sites 1-79),667,Hook Up (E/W/S) Campsite
+San Luis Reservoir SRA,711,95322,Group Sites,671,Group Camping
+San Luis Reservoir SRA,711,95322,Group Sites,671,Premium Group Campsite
+San Luis Reservoir SRA,711,95322,San Luis Creek Campground,672,Hike/Bike Campsite
+San Luis Reservoir SRA,711,95322,San Luis Creek Campground,672,Hook Up (E/W) Campsite
+San Luis Reservoir SRA,711,95322,San Luis Creek Campground,672,Premium Hook Up (E/W) Campsite
+San Luis Reservoir SRA,711,95322,Los Banos Creek  Campground,2046,Primitive Campsite
+San Luis Reservoir SRA,711,95322,Los Banos Creek  Campground,2046,Tent Primitive Campsite
+San Luis Reservoir SRA,711,95322,Medeiros Campground,2047,Campsite
+San Luis Reservoir SRA,711,95322,Medeiros Campground,2047,Premium Campsite
+George J. Hatfield SRA,648,95324,George Hatfield Group Camp,492,Bike In Campsite
+George J. Hatfield SRA,648,95324,George Hatfield Group Camp,492,Campsite
+George J. Hatfield SRA,648,95324,George Hatfield Group Camp,492,Group Hook Up (E ) Tent Campsite
+George J. Hatfield SRA,648,95324,George Hatfield Group Camp,492,Tent Campsite
+Julia Pfeiffer Burns SP,661,93920,Environmental Group Camp Area,518,Campsite
+Julia Pfeiffer Burns SP,661,93920,Environmental Group Camp Area,518,Hike In Primitive Campsite
+Limekiln SP,666,93920,Redwood Camp (sites 13-29),546,Hook Up (E/W/S) Campsite
+Limekiln SP,666,93920,Redwood Camp (sites 13-29),546,Tent Campsite
+Pfeiffer Big Sur SP,690,93920,Group Sites A & B,609,Group Hike In Campsite
+Pfeiffer Big Sur SP,690,93920,South Camp (sites 1-78),611,Campsite
+Pfeiffer Big Sur SP,690,93920,South Camp (sites 1-78),611,Hook Up (E/W/S) Campsite
+Pfeiffer Big Sur SP,690,93920,South Camp (sites 1-78),611,Premium Campsite
+Pfeiffer Big Sur SP,690,93920,South Camp (sites 1-78),611,Premium Tent Campsite
+Pfeiffer Big Sur SP,690,93920,South Camp (sites 1-78),611,Tent Campsite
+Pfeiffer Big Sur SP,690,93920,Weyland Camp (sites 79-130),612,Campsite
+Pfeiffer Big Sur SP,690,93920,Weyland Camp (sites 79-130),612,Hook Up (E/W/S) Campsite
+Pfeiffer Big Sur SP,690,93920,Weyland Camp (sites 79-130),612,Premium Campsite
+Pfeiffer Big Sur SP,690,93920,Weyland Camp (sites 79-130),612,Premium Tent Campsite
+Pfeiffer Big Sur SP,690,93920,Weyland Camp (sites 79-130),612,Tent Campsite
+Pfeiffer Big Sur SP,690,93920,Main Camp (sites 131-188),767,Cabin (4 People)
+Pfeiffer Big Sur SP,690,93920,Main Camp (sites 131-188),767,Campsite
+Pfeiffer Big Sur SP,690,93920,Main Camp (sites 131-188),767,Hike In Primitive Campsite
+Pfeiffer Big Sur SP,690,93920,Main Camp (sites 131-188),767,Premium Campsite
+Pfeiffer Big Sur SP,690,93920,Main Camp (sites 131-188),767,Premium Tent Campsite
+Pfeiffer Big Sur SP,690,93920,Main Camp (sites 131-188),767,Tent Campsite
+Limekiln SP,666,93920,Ocean Camp (sites 1-12),1130,Premium Campsite
+Limekiln SP,666,93920,Ocean Camp (sites 1-12),1130,Premium Tent Campsite
+Andrew Molera SP,1077,93920,Trail Camp,1940,Hike in Campsite
+Andrew Molera SP,1077,93920,Trail Camp,1940,Hook Up (E/W/S) Campsite
+Andrew Molera SP,1077,93920,Trail Camp,1940,Tent Campsite
+Pfeiffer Big Sur SP,690,93920,Day Use Lot 3,2092,Enroute Campsite
+Pfeiffer Big Sur SP,690,93920,Day Use Lot 4,2093,Enroute Campsite
+Manresa SB,672,93933,Willow Camps (sites 1-26),564,Hike in Campsite
+Manresa SB,672,93933,Willow Camps (sites 1-26),564,Hook Up (E/W/S) Campsite
+Manresa SB,672,93933,Willow Camps (sites 1-26),564,Tent Hike In Campsite
+Manresa SB,672,93933,Bay & Lupine Camps (sites 27-65),565,Hike in Campsite
+Manresa SB,672,93933,Bay & Lupine Camps (sites 27-65),565,Tent Hike In Campsite
+Bothe-Napa Valley SP,620,94515,Valley Group Camp,419,Tent Campsite
+Bothe-Napa Valley SP,620,94515,Valley Yurts,752,Yurt (4)
+Bothe-Napa Valley SP,620,94515,Valley Yurts,752,Yurt (6)
+Bothe-Napa Valley SP,620,94515,Ritchey Creek Campground,782,Campsite
+Bothe-Napa Valley SP,620,94515,Ritchey Creek Campground,782,Hike/Bike Campsite
+Bothe-Napa Valley SP,620,94515,Ritchey Creek Campground,782,Tent Campsite
+Bothe-Napa Valley SP,620,94515,Cabin Colony,882,Cabin (2 People)
+Bothe-Napa Valley SP,620,94515,Cabin Colony,882,Cabin (4 People)
+Malakoff Diggins SHP,669,95959,Chute Hill Campground,559,Group Tent Campsite
+Malakoff Diggins SHP,669,95959,Chute Hill Campground,559,Hike In Primitive Campsite
+Malakoff Diggins SHP,669,95959,Chute Hill Campground,559,Hook Up (E/W/S) Campsite
+Malakoff Diggins SHP,669,95959,Chute Hill Campground,559,Tent Campsite
+Malakoff Diggins SHP,669,95959,North Bloomfield Cabin Colony,763,Cabin (5 People)
+Donner Memorial SP,640,96161,Creek Campground (sites 50-107},466,Campsite
+Donner Memorial SP,640,96161,Creek Campground (sites 50-107},466,Hike/Bike Campsite
+Donner Memorial SP,640,96161,Creek Campground (sites 50-107},466,Hook Up Campsite
+Donner Memorial SP,640,96161,Ridge Campground (sites 1-49),467,Campsite
+Donner Memorial SP,640,96161,Ridge Campground (sites 1-49),467,Hook Up Campsite
+Donner Memorial SP,640,96161,Splitrock Campground (sites 108-152),468,Campsite
+Doheny SB,639,92629,"North Loop (sites 1-59, 120, 122)",462,Campsite
+Doheny SB,639,92629,"North Loop (sites 1-59, 120, 122)",462,Hook Up (E/W/S) Campsite
+Doheny SB,639,92629,"North Loop (sites 1-59, 120, 122)",462,Premium Campsite
+Doheny SB,639,92629,"North Loop (sites 1-59, 120, 122)",462,Tent Campsite
+Doheny SB,639,92629,"South Loop (sites 60-119, 121)",464,Campsite
+Doheny SB,639,92629,"South Loop (sites 60-119, 121)",464,Hook Up (E/W/S) Campsite
+Doheny SB,639,92629,"South Loop (sites 60-119, 121)",464,Premium Campsite
+Doheny SB,639,92629,Doheny Group,581,Campsite
+Bolsa Chica SB,619,92649,Campground (sites 1-31),417,Hook Up (E/W) Campsite
+Bolsa Chica SB,619,92649,Campground (sites 1-31),417,Premium Hook Up (E/W) Campsite
+Bolsa Chica SB,619,92649,Campground (sites 32-57),418,Hook Up (E/W) Campsite
+Bolsa Chica SB,619,92649,Campground (sites 32-57),418,Premium Hook Up (E/W) Campsite
+Crystal Cove SP Moro Campground,635,92651,Moro Campground,447,Premium Hook Up (E/W) Campsite
+Crystal Cove SP Moro Campground,635,92651,Moro Campground,447,Premium Hook Up (E/W/S) Campsite
+Crystal Cove SP Moro Campground,635,92651,Moro Campground,447,Premium Tent Campsite
+Crystal Cove SP Beach Cottages,634,92651,Beach Cottages,757,Beach Dorm (3 ppl)
+Crystal Cove SP Beach Cottages,634,92651,Beach Cottages,757,Dorm (2 ppl)
+Crystal Cove SP Beach Cottages,634,92651,Beach Cottages,757,Premium Cottage
+Crystal Cove SP Beach Cottages,634,92651,Beach Cottages,757,Premium Cottage (3 ppl)
+Crystal Cove SP Beach Cottages,634,92651,Beach Cottages,757,Premium Cottage (4 ppl)
+Crystal Cove SP Beach Cottages,634,92651,Beach Cottages,757,Premium Cottage (5 ppl)
+Crystal Cove SP Beach Cottages,634,92651,Beach Cottages,757,Premium Cottage (6 ppl)
+Crystal Cove SP Beach Cottages,634,92651,Beach Cottages,757,Premium Cottage (7 ppl)
+Crystal Cove SP Beach Cottages,634,92651,Beach Cottages,757,Premium Cottage (8 ppl)
+Crystal Cove SP Beach Cottages,634,92651,Beach Cottages,757,Premium Cottage (9 ppl)
+Crystal Cove SP Beach Cottages,634,92651,Beach Cottages,757,Premium Cottages (6 ppl)
+Crystal Cove SP Beach Cottages,634,92651,Beach Cottages,757,Premium Dorm (6 ppl)
+Crystal Cove SP Moro Campground,635,92651,Deer Canyon,2157,Hike In Primitive Campsite
+Crystal Cove SP Moro Campground,635,92651,Upper Moro Campground,2158,Hike In Primitive Campsite
+Crystal Cove SP Moro Campground,635,92651,Lower Moro Campground,2159,Hike In Primitive Campsite
+San Clemente SB,707,92672,Tent Group Camp,659,Group Campsite
+San Clemente SB,707,92672,Tent Group Camp,659,Group Tent Campsite
+San Clemente SB,707,92672,RV Campground (sites 1-72),661,Hook Up (E/W/S) Campsite
+San Clemente SB,707,92672,Tent Campground East Section (sites 100-160),662,Campsite
+San Clemente SB,707,92672,Tent Campground West Section (sites 73-99),664,Campsite
+San Clemente SB,707,92672,Tent Campground West Section (sites 73-99),664,Premium Tent Campsite
+San Onofre SB,712,92672,Bluffs Group Camp,668,Group Camping
+San Onofre SB,712,92672,Bluffs Group Camp,668,Group Campsite
+San Onofre SB,712,92672,Bluff Camp (sites 1-23),674,Primitive Campsite
+San Onofre SB,712,92672,Bluff Camp (sites 120-145),675,Primitive Campsite
+San Onofre SB,712,92672,Bluff Camp (sites 141-156),676,Primitive Campsite
+San Onofre SB,712,92672,Bluff Camp (sites 164-175),677,Primitive Campsite
+San Onofre SB,712,92672,Bluff Camp (sites 24-45),678,Primitive Campsite
+San Onofre SB,712,92672,Bluff Camp (sites 46-66),680,Group Campsite
+San Onofre SB,712,92672,Bluff Camp (sites 46-66),680,Tent Primitive Campsite
+San Onofre SB,712,92672,Bluff Camp (sites 67-93),681,Tent Primitive Campsite
+San Onofre SB,712,92672,Bluff Camp (sites 94-119),682,Group Tent Campsite
+San Onofre SB,712,92672,Bluff Camp (sites 94-119),682,Primitive Campsite
+San Onofre SB,712,92672,San Mateo Camp (sites 101-140),683,Tent Primitive Campsite
+San Onofre SB,712,92672,San Mateo Camp (sites 141-157),684,Tent Primitive Campsite
+San Onofre SB,712,92672,San Mateo Camp (sites 1-67),685,Hook Up (E/W) Campsite
+San Onofre SB,712,92672,San Mateo Camp (sites 68-100),686,Campsite
+San Clemente SB (The Holidays Vintage Trailers),708,92672,Vintage Trailer,920,Rental (E/W/S)
+San Onofre SB,712,92672,San Mateo Group Site,2136,Group Campsite
+Auburn SRA,616,95604,Boat-In Sites 1-16,411,Boat In Primitive Campsite
+Auburn SRA,616,95604,Mineral Bar,2086,Tent Campsite
+Auburn SRA,616,95604,Ruck-a-chucky,2087,Tent Campsite
+Tahoe SRA,728,96145,Tahoe Campground,738,Bike In Campsite
+Tahoe SRA,728,96145,Tahoe Campground,738,Campsite
+Tahoe SRA,728,96145,Tahoe Campground,738,Hook Up (E/W/S) Campsite
+Tahoe SRA,728,96145,Tahoe Campground,738,Tent Campsite
+Plumas-Eureka SP,692,96103,Camp Lisa Group Site,621,Group Campsite
+Plumas-Eureka SP,692,96103,Jamison Creek Campground (sites 1-70),622,Campsite
+Plumas-Eureka SP,692,96103,Jamison Creek Campground (sites 1-70),622,Hook Up (E/W/S) Campsite
+Plumas-Eureka SP,692,96103,Jamison Creek Campground (sites 1-70),622,Tent Campsite
+Mt. San Jacinto SP,684,92549,Idyllwild Campground,593,Campsite
+Mt. San Jacinto SP,684,92549,Idyllwild Campground,593,Hike/Bike Campsite
+Mt. San Jacinto SP,684,92549,Idyllwild Campground,593,Hook Up (E ) Campsite
+Mt. San Jacinto SP,684,92549,Idyllwild Campground,593,Hook Up (E/W) Campsite
+Mt. San Jacinto SP,684,92549,Idyllwild Campground,593,Hook Up (E/W/S) Campsite
+Mt. San Jacinto SP,684,92549,Idyllwild Campground,593,Tent Campsite
+Mt. San Jacinto SP,684,92549,Stone Creek Campground,595,Hook Up (E ) Campsite
+Mt. San Jacinto SP,684,92549,Stone Creek Campground,595,Hook Up (E/W/S) Campsite
+Mt. San Jacinto SP,684,92549,Stone Creek Campground,595,Primitive Campsite
+Mt. San Jacinto SP,684,92549,Stone Creek Campground,595,Tent Primitive Campsite
+Mt. San Jacinto SP,684,92549,Little Round Valley,2010,Hike In Primitive Campsite
+Mt. San Jacinto SP,684,92549,Round Valley,2011,Hike In Primitive Campsite
+Mt. San Jacinto SP,684,92549,Strawberry Junction Campground,2012,Hike In Primitive Campsite
+Mt. San Jacinto SP,684,92549,Tamarac Valley,2013,Hike In Primitive Campsite
+Salton Sea SRA,704,92254,Salt Creek Beach Campground (sites 1-30),650,Campsite
+Salton Sea SRA,704,92254,New Camp (sites 26-50),651,Campsite
+Salton Sea SRA,704,92254,New Camp (sites 26-50),651,Group Camping
+Salton Sea SRA,704,92254,New Camp (sites 26-50),651,Hook Up (E ) Campsite
+Salton Sea SRA,704,92254,New Camp (sites 26-50),651,Hook Up (E/W) Campsite
+Salton Sea SRA,704,92254,Mecca Beach Campground (sites 106-159),918,Campsite
+Salton Sea SRA,704,92254,Mecca Beach Campground (sites 106-159),918,Hook Up (E/W/S) Campsite
+Salton Sea SRA,704,92254,Corvina Beach Campground (sites 1-35),1131,Campsite
+Salton Sea SRA,704,92254,Corvina Beach Campground (sites 1-35),1131,Primitive Campsite
+Salton Sea SRA,704,92254,Headquaters Hookup (sites 1-14),2043,Enroute Campsite
+Salton Sea SRA,704,92254,Headquaters Hookup (sites 1-14),2043,Hook Up (E/W/S) Campsite
+Salton Sea SRA,704,92254,Mecca Beach Campground (sites 51-105),2094,Campsite
+Lake Perris SRA,663,92571,Bobcat Loop (sites 354-390),529,Hook Up (E/W/S) Campsite
+Lake Perris SRA,663,92571,Bobcat Loop (sites 354-390),529,Tent Campsite
+Lake Perris SRA,663,92571,Coyote Loop (sites 89-136),530,Hook Up (E/W/G) Campsite
+Lake Perris SRA,663,92571,"Deer Loop (sites 192-202, 271-351)",531,Hook Up (E/W/G) Campsite
+Lake Perris SRA,663,92571,Group Camp,532,Group Tent Campsite
+Lake Perris SRA,663,92571,Group Picnic,533,Group Dailyuse (B)
+Lake Perris SRA,663,92571,Group Picnic,533,Group Dailyuse (C)
+Lake Perris SRA,663,92571,Group Picnic,533,Group Day Use
+Lake Perris SRA,663,92571,Horse Camp,534,Equestrian Primitive Campsite
+Lake Perris SRA,663,92571,Quail Loop (sites 1-44),536,Hook Up (E/W/S) Campsite
+Lake Perris SRA,663,92571,Quail Loop (sites 1-44),536,Tent Campsite
+Lake Perris SRA,663,92571,Roadrunner Loop (sites 391-432),537,Hook Up (E/W/S) Campsite
+Lake Perris SRA,663,92571,Roadrunner Loop (sites 391-432),537,Tent Campsite
+Lake Perris SRA,663,92571,Quail Loop (sites 45-88),793,Hook Up (E/W/S) Campsite
+Lake Perris SRA,663,92571,Quail Loop (sites 45-88),793,Tent Campsite
+Lake Perris SRA,663,92571,Coyote Loop (sites 137-190),794,Hook Up (E/W/G) Campsite
+Lake Perris SRA,663,92571,Coyote Loop (sites 137-190),794,Hook Up (E/W/S) Campsite
+Lake Perris SRA,663,92571,Deer Loop (sites 221-270),795,Hook Up (E/W/G) Campsite
+Lake Perris SRA,663,92571,"Deer Loop (sites 203-220, 283-317)",1122,Hook Up (E/W/G) Campsite
+Lake Perris SRA,663,92571,"Deer Loop (sites 203-220, 283-317)",1122,Hook Up (E/W/S) Campsite
+Lake Perris SRA,663,92571,Bernasconi Undeveloped Group Camp,2000,Group Tent Campsite
+Lake Perris SRA,663,92571,Deer Loop (sites 318-353),2001,Hike/Bike Campsite
+Lake Perris SRA,663,92571,Deer Loop (sites 318-353),2001,Hook Up (E/W/G) Campsite
+Folsom Lake SRA,643,95630,Beals Point Campground (sites 1-49),481,Campsite
+Folsom Lake SRA,643,95630,Beals Point Campground (sites 1-49),481,Tent Campsite
+Folsom Lake SRA,643,95630,Negro Bar Group,483,Group Campsite
+Folsom Lake SRA,643,95630,Peninsula Campground (sites 1-57),484,Campsite
+Folsom Lake SRA,643,95630,Peninsula Campground (sites 1-57),484,Hook Up (E/W) Campsite
+Folsom Lake SRA,643,95630,Peninsula Campground (sites 1-57),484,Tent Campsite
+Folsom Lake SRA,643,95630,Peninsula Campground (sites 58-96),487,Campsite
+Folsom Lake SRA,643,95630,Peninsula Campground (sites 58-96),487,Tent Campsite
+Folsom Lake SRA,643,95630,Beals Point Campground (sites 50-69),1129,Hook Up Campsite
+Folsom Lake SRA,643,95630,Averys Pond,1967,Campsite
+Folsom Lake SRA,643,95630,Granite Bay,1968,Boat In Primitive Campsite
+Hollister Hills SVRA,1136,95023,Area 5 Group Camping,1970,Group Tent Campsite
+Hollister Hills SVRA,1136,95023,Bee/Campground,1971,Campsite
+Hollister Hills SVRA,1136,95023,Environmental Site,1972,Campsite
+Hollister Hills SVRA,1136,95023,Hunder Pass Campground,1973,Tent Campsite
+Hollister Hills SVRA,1136,95023,Lodge/Campground,1974,Campsite
+Hollister Hills SVRA,1136,95023,Madrone/Campground,1975,Campsite
+Hollister Hills SVRA,1136,95023,Walnut/Campground,1976,Campsite
+Hollister Hills SVRA,1136,95023,Sycamore Campground,2118,Campsite
+Fremont Peak SP,645,95045,Doe Flat Group Camp,489,Group Tent Primitive Campsite
+Fremont Peak SP,645,95045,Valley View Campground,490,Primitive Campsite
+Fremont Peak SP,645,95045,Valley View Campground,490,Tent Primitive Campsite
+Fremont Peak SP,645,95045,Oak Point Campground,1132,Tent Primitive Campsite
+Providence Mountains SRA,1192,92309,Honeymoon Hogan,2035,Premium Cottage
+Providence Mountains SRA,1192,92309,Multi Family Dorm Room,2036,Premium Cabin (3 People)
+Providence Mountains SRA,1192,92309,Park Campground,2037,Campsite
+Providence Mountains SRA,1192,92309,Park Campground,2037,Premium Campsite
+Providence Mountains SRA,1192,92309,Park Campground,2037,Tent Campsite
+Chino Hills SP,627,91709,Rolling M. Ranch Campground,439,Campsite
+Chino Hills SP,627,91709,Rolling M. Ranch Campground,439,Equestrian Primitive Campsite
+Chino Hills SP,627,91709,Rolling M. Ranch Campground,439,Group Primitive Campsite
+Silverwood Lake SRA,716,92345,Group Camping Area,698,Group Campsite
+Silverwood Lake SRA,716,92345,Miller Canyon Group Sites,699,Group Campsite
+Silverwood Lake SRA,716,92345,New Mesa Campground (sites 96-136),700,Campsite
+Silverwood Lake SRA,716,92345,New Mesa Campground (sites 96-136),700,Hook Up (E/W/S) Campsite
+Silverwood Lake SRA,716,92345,Old Mesa Campground (sites 1-65),701,Campsite
+Silverwood Lake SRA,716,92345,Old Mesa Campground (sites 1-65),701,Double Hook Up (E/W/S) Campsite
+Silverwood Lake SRA,716,92345,Old Mesa Campground (sites 1-65),701,Hike/Bike Campsite
+Silverwood Lake SRA,716,92345,Old Mesa Campground (sites 66-95),703,Campsite
+Anza-Borrego Desert SP,2,92004,Borrego Palm Canyon (sites 53-89),327,Campsite
+Anza-Borrego Desert SP,2,92004,Tamarisk Grove Campground,329,Cabin (8 People)
+Anza-Borrego Desert SP,2,92004,Tamarisk Grove Campground,329,Campsite
+Anza-Borrego Desert SP,2,92004,Tamarisk Grove Campground,329,Hike In Primitive Campsite
+Anza-Borrego Desert SP,2,92004,Vern Whitaker Horse Camp,330,Equestrian Campsite
+Anza-Borrego Desert SP,2,92004,Borrego Palm Canyon (sites 1-52),776,Hook Up (E/W/S) Campsite
+Anza-Borrego Desert SP,2,92004,Borrego Palm Canyon (sites 90-120),777,Campsite
+Anza-Borrego Desert SP,2,92004,Borrego Palm Canyon (sites 90-120),777,Hike In Primitive Campsite
+Ocotillo Wells SVRA,1175,92004,112 Primitive/Undeveloped Sites,2017,Campsite
+Anza-Borrego Desert SP,2,92004,Borrego Palm Canyon Group (G1-G5),2151,Group Tent Campsite
+San Elijo SB,709,92007,"Middle Section (sites 1-39, 93-128)",665,Campsite
+San Elijo SB,709,92007,"Middle Section (sites 1-39, 93-128)",665,Hike/Bike Campsite
+San Elijo SB,709,92007,"Middle Section (sites 1-39, 93-128)",665,Hook Up (E/W/S) Campsite
+San Elijo SB,709,92007,"Middle Section (sites 1-39, 93-128)",665,Premium Campsite
+San Elijo SB,709,92007,"Middle Section (sites 1-39, 93-128)",665,Premium Hook Up (E/W/S) Campsite
+San Elijo SB,709,92007,Northern Section (sites 130-171),666,Campsite
+San Elijo SB,709,92007,Northern Section (sites 130-171),666,Hook Up (E/W/S) Campsite
+San Elijo SB,709,92007,Northern Section (sites 130-171),666,Premium Campsite
+San Elijo SB,709,92007,Southern Section (sites 40-92),670,Campsite
+San Elijo SB,709,92007,Southern Section (sites 40-92),670,Hook Up (E/W/S) Campsite
+San Elijo SB,709,92007,Southern Section (sites 40-92),670,Premium Campsite
+San Elijo SB,709,92007,Grunion Run Group Camp,2045,Group Campsite
+South Carlsbad SB,720,92008,"Northern End (sites 1-34, 103-130)",708,Campsite
+South Carlsbad SB,720,92008,"Northern End (sites 1-34, 103-130)",708,Hook Up (E/W/S) Campsite
+South Carlsbad SB,720,92008,"Northern End (sites 1-34, 103-130)",708,Premium Campsite
+South Carlsbad SB,720,92008,Southern End (sites 153-187),712,Hook Up (E/W/S) Campsite
+South Carlsbad SB,720,92008,Southern End (sites 153-187),712,Premium Campsite
+South Carlsbad SB,720,92008,"Southern End (sites 131-152, 188-223)",714,Campsite
+South Carlsbad SB,720,92008,"Southern End (sites 131-152, 188-223)",714,Double Hook Up (E/W/S) Campsite
+South Carlsbad SB,720,92008,"Southern End (sites 131-152, 188-223)",714,Hook Up (E/W/S) Campsite
+South Carlsbad SB,720,92008,"Southern End (sites 131-152, 188-223)",714,Premium Campsite
+South Carlsbad SB,720,92008,"Southern End (sites 131-152, 188-223)",714,Premium Double Hook Up (E/W/S) Campsite
+South Carlsbad SB,720,92008,"Southern End (sites 131-152, 188-223)",714,Premium Hook Up Campsite
+South Carlsbad SB,720,92008,Northern End (sites 35-102),715,Campsite
+South Carlsbad SB,720,92008,Northern End (sites 35-102),715,Hook Up (E/W/S) Campsite
+South Carlsbad SB,720,92008,Northern End (sites 35-102),715,Premium Campsite
+South Carlsbad SB,720,92008,North Loop (Group site),2100,Premium Group Campsite
+Silver Strand SB,715,92118,Silver Strand Northern Section,694,Hook Up (E/W) Campsite
+Silver Strand SB,715,92118,Silver Strand Northern Section,694,Premium Hook Up (E/W) Campsite
+Silver Strand SB,715,92118,Silver Strand Southern Section,696,Hook Up (E/W) Campsite
+Silver Strand SB,715,92118,Silver Strand Southern Section,696,Premium Hook Up (E ) Campsite
+Silver Strand SB,715,92118,Silver Strand Southern Section,696,Premium Hook Up (E/W) Campsite
+Cuyamaca Rancho SP,7,92036,Arroyo Seco Trail Camp,361,Group Hike In Primitive Campsite
+Cuyamaca Rancho SP,7,92036,Arroyo Seco Trail Camp,361,Tent Hike In Primitive Campsite
+Cuyamaca Rancho SP,7,92036,Arroyo Seco Trail Camp,361,Tent Hike/Bike Primitive Campsite
+Cuyamaca Rancho SP,7,92036,Granite Springs Trail Group Camp,363,Equestrian Hike/Bike Primitive Campsite
+Cuyamaca Rancho SP,7,92036,Granite Springs Trail Group Camp,363,Tent Hike In Primitive Campsite
+Cuyamaca Rancho SP,7,92036,Granite Springs Trail Group Camp,363,Tent Hike/Bike Primitive Campsite
+Cuyamaca Rancho SP,7,92036,Granite Springs Trail Camp,364,Group Hike In Primitive Campsite
+Cuyamaca Rancho SP,7,92036,Green Valley Campground (sites 22-85),365,Campsite
+Cuyamaca Rancho SP,7,92036,Green Valley Campground (sites 22-85),365,Hook Up Campsite
+Cuyamaca Rancho SP,7,92036,Green Valley Horse Camp (sites 1-15),368,Equestrian Campsite
+Cuyamaca Rancho SP,7,92036,Los Vaqueros Group Horse Camp,369,Equestrian Group Campsite
+Cuyamaca Rancho SP,7,92036,Paso Picacho Campground & Cabins,370,Cabin (8 People)
+Cuyamaca Rancho SP,7,92036,Paso Picacho Campground & Cabins,370,Campsite
+Cuyamaca Rancho SP,7,92036,Paso Picacho Campground & Cabins,370,Premium Cabin (8 People)
+Cuyamaca Rancho SP,7,92036,Paso Picacho Groups A & B,374,Group Campsite
+Cuyamaca Rancho SP,7,92036,Cedar Grove Volunteer Camp,1961,Group Hook Up (E ) Tent Campsite
+Cuyamaca Rancho SP,7,92036,Merigan MAU Volunteer Camp,1962,Equestrian Group Campsite
+Cuyamaca Rancho SP,7,92036,Mickey James Volunteer Camp,1963,Equestrian Group Campsite
+Cuyamaca Rancho SP,7,92036,North MAU Volunteer Camp,1964,Equestrian Group Campsite
+Cuyamaca Rancho SP,7,92036,Paso Picacho Cabins,2156,Cabin (8 People)
+Palomar Mountain SP,687,92060,Cedar Grove Group Camp,600,Group Camping
+Palomar Mountain SP,687,92060,Doane Valley Family Camp,601,Campsite
+Palomar Mountain SP,687,92060,Doane Valley Family Camp,601,Hike In Primitive Campsite
+Palomar Mountain SP,687,92060,Doane Valley Family Camp,601,Hook Up (E ) Campsite
+Cosmopolitan Hotel,633,92110,Cosmopolitan Hotel,404,Hotel Room (Balcony)
+Cosmopolitan Hotel,633,92110,Cosmopolitan Hotel,404,Hotel Room (Hall)
+Cosmopolitan Hotel,633,92110,Cosmopolitan Hotel,404,Hotel Room (Standard)
+Candlestick Point SRA,1103,94124,Sunrise Point Campgrounds,2153,Campsite
+Caswell Memorial SP,625,95366,Caswell Memorial Campground,433,Campsite
+Caswell Memorial SP,625,95366,Group Camping,434,Group Tent Campsite
+Carnegie SVRA,1107,95376,Campground,1128,Campsite
+Hearst San Simeon SP,713,93428,Creek Campground Lower Section (sites 36-115),687,Campsite
+Hearst San Simeon SP,713,93428,Creek Campground Lower Section (sites 36-115),687,Double Hook Up (E/W/S) Campsite
+Hearst San Simeon SP,713,93428,Creek Campground Lower Section (sites 36-115),687,Tent Campsite
+Hearst San Simeon SP,713,93428,Washburn Campground (sites 201-268),787,Campsite
+Hearst San Simeon SP,713,93428,Washburn Campground (sites 201-268),787,Primitive Campsite
+Hearst San Simeon SP,713,93428,Creek Tent Campground (sites 116-134),788,Campsite
+Hearst San Simeon SP,713,93428,Creek Tent Campground (sites 116-134),788,Hike In Primitive Campsite
+Hearst San Simeon SP,713,93428,Creek Tent Campground (sites 116-134),788,Tent Campsite
+Hearst San Simeon SP,713,93428,Creek Campground Upper Section (sites 1-35),789,Campsite
+Hearst San Simeon SP,713,93428,Creek Campground Upper Section (sites 1-35),789,Tent Campsite
+Montana De Oro SP,679,93402,Environmental Camping,574,Hike In Primitive Campsite
+Montana De Oro SP,679,93402,Horse Camps,576,Equestrian Group Primitive Campsite
+Montana De Oro SP,679,93402,Horse Camps,576,Equestrian Primitive Campsite
+Montana De Oro SP,679,93402,Islay Creek Campground,577,Campsite
+Montana De Oro SP,679,93402,Islay Creek Campground,577,Hook Up Campsite
+Montana De Oro SP,679,93402,Islay Creek Campground,577,Primitive Campsite
+Morro Bay SP,680,93442,Group Sites,580,Premium Group Campsite
+Morro Bay SP,680,93442,Group Sites,580,Premium Group Tent Campsite
+Morro Bay SP,680,93442,Lower Section (sites 1-85),582,Campsite
+Morro Bay SP,680,93442,Lower Section (sites 1-85),582,Double Hook Up (E/W/S) Campsite
+Morro Bay SP,680,93442,Lower Section (sites 1-85),582,Hook Up Campsite
+Morro Bay SP,680,93442,Upper Section (sites 86-140),583,Campsite
+Morro Bay SP,680,93442,Upper Section (sites 86-140),583,Double Hook Up (E/W/S) Campsite
+Morro Bay SP,680,93442,Upper Section (sites 86-140),583,Hike In Primitive Campsite
+Morro Strand SB,681,93442,Morro Strand Campground (sites 19-66),584,Campsite
+Morro Strand SB,681,93442,Morro Strand Campground (sites 19-66),584,Hook Up Campsite
+Morro Strand SB,681,93442,"Morro Strand Campground (sites 1-18, 67-81)",587,Campsite
+Morro Strand SB,681,93442,"Morro Strand Campground (sites 1-18, 67-81)",587,Hook Up Campsite
+Oceano Dunes SVRA,686,93445,Oceano SVRA (1-999),2016,Off Road Vehicle Campsite
+Pismo SB,691,93449,North Beach Campground,615,Campsite
+Pismo SB,691,93449,Oceano Camp (sites 1-42),616,Hook Up (E/W) Campsite
+Pismo SB,691,93449,Oceano Camp (sites 43-82),618,Campsite
+Half Moon Bay SB,652,94019,Francis Beach Campground,498,Campsite
+Half Moon Bay SB,652,94019,Francis Beach Campground,498,Hike/Bike Campsite
+Half Moon Bay SB,652,94019,Francis Beach Campground,498,Hook Up (E ) Campsite
+Half Moon Bay SB,652,94019,Francis Beach Campground,498,Hook Up (E/W/S) Campsite
+Half Moon Bay SB,652,94019,Francis Beach Campground,498,Premium Hook Up (E ) Campsite
+Half Moon Bay SB,652,94019,Francis Beach Campground,498,Tent Campsite
+Half Moon Bay SB,652,94019,Sweetwood Group Camping,500,Group Tent Campsite
+Portola Redwoods SP,695,94020,Redwoods Group Camping Area,625,Group Campsite
+Portola Redwoods SP,695,94020,Redwoods Group Camping Area,625,Group Tent Campsite
+Portola Redwoods SP,695,94020,Family Walk in (sites 61-64),626,Hike in Campsite
+Portola Redwoods SP,695,94020,"Portola Campground (sites 1-4, 20-45)",628,Campsite
+Portola Redwoods SP,695,94020,"Portola Campground (sites 1-4, 20-45)",628,Hook Up (E/W/S) Campsite
+Portola Redwoods SP,695,94020,"Portola Campground (sites 1-4, 20-45)",628,Tent Campsite
+Portola Redwoods SP,695,94020,"Portola Campground (sites 5-19, 46-53)",629,Campsite
+Portola Redwoods SP,695,94020,"Portola Campground (sites 5-19, 46-53)",629,Hook Up (E/W/S) Campsite
+Portola Redwoods SP,695,94020,"Portola Campground (sites 5-19, 46-53)",629,Tent Campsite
+Portola Redwoods SP,695,94020,Hike and Bike Campsites,2032,Hike/Bike Campsite
+Portola Redwoods SP,695,94020,Madrone Enroute,2033,Enroute Campsite
+Portola Redwoods SP,695,94020,Slate Creek Trail Camp Sites,2034,Hike In Primitive Campsite
+Butano SP,622,94060,Ben Ries Campground,783,Bike In Campsite
+Butano SP,622,94060,Ben Ries Campground,783,Campsite
+Butano SP,622,94060,Ben Ries Campground,783,Enroute Campsite
+Butano SP,622,94060,Ben Ries Campground,783,Hook Up (E/W/S) Campsite
+Butano SP,622,94060,Ben Ries Campground,783,Tent Only - Walk-In
+Butano SP,622,94060,Butano Trail Camp,2143,Hike In Primitive Campsite
+Carpinteria SB,6,93013,Anacapa (sites 101-127 & group sites),357,Campsite
+Carpinteria SB,6,93013,Anacapa (sites 101-127 & group sites),357,Group Camping
+Carpinteria SB,6,93013,Anacapa (sites 101-127 & group sites),357,Group Campsite
+Carpinteria SB,6,93013,Anacapa (sites 101-127 & group sites),357,Hike/Bike Campsite
+Carpinteria SB,6,93013,Santa Cruz (sites 201-244 & group sites),358,Campsite
+Carpinteria SB,6,93013,Santa Cruz (sites 201-244 & group sites),358,Group Campsite
+Carpinteria SB,6,93013,Santa Cruz (sites 201-244 & group sites),358,Hook Up (E/W/S) Campsite
+Carpinteria SB,6,93013,Santa Cruz (sites 201-244 & group sites),358,Premium Campsite
+Carpinteria SB,6,93013,Santa Miguel (sites 401-460),359,Campsite
+Carpinteria SB,6,93013,Santa Miguel (sites 401-460),359,Hook Up (E/W) Campsite
+Carpinteria SB,6,93013,Santa Miguel (sites 401-460),359,Premium Campsite
+Carpinteria SB,6,93013,Santa Rosa (sites 301-380),360,Hook Up (E/W/S) Campsite
+Carpinteria SB,6,93013,Santa Rosa (sites 301-380),360,Premium Hook Up (E/W/S) Campsite
+Carpinteria SB,6,93013,Enroute Campsites,2162,Campsite
+El Capitan SB,8,93117,Group Area,375,Group Campsite
+El Capitan SB,8,93117,Group Area,375,Group Tent Campsite
+El Capitan SB,8,93117,Group Area,375,Hike In Primitive Campsite
+El Capitan SB,8,93117,Group Area,375,Hike/Bike Campsite
+El Capitan SB,8,93117,Lower Section (sites 1-28),376,Campsite
+El Capitan SB,8,93117,Lower Section (sites 1-28),376,Hook Up (E/W/S) Campsite
+El Capitan SB,8,93117,Middle Section (sites 29-91) & Anza Group),377,Campsite
+El Capitan SB,8,93117,Middle Section (sites 29-91) & Anza Group),377,Group Campsite
+El Capitan SB,8,93117,Middle Section (sites 29-91) & Anza Group),377,Hook Up (E/W/S) Campsite
+El Capitan SB,8,93117,Upper Section (sites 92-132) & Portola Group,379,Campsite
+El Capitan SB,8,93117,Upper Section (sites 92-132) & Portola Group,379,Group Campsite
+Gaviota SP,646,93117,Gaviota Campground,491,Campsite
+Gaviota SP,646,93117,Gaviota Campground,491,Hike In Primitive Campsite
+Gaviota SP,646,93117,Gaviota Campground,491,Hike/Bike Campsite
+Gaviota SP,646,93117,Gaviota Campground,491,Hook Up (E/W/S) Campsite
+Refugio SB,699,93117,Refugio Campground,633,Campsite
+Refugio SB,699,93117,Refugio Campground,633,Hike In Primitive Campsite
+Refugio SB,699,93117,Refugio Campground,633,Hike/Bike Campsite
+Refugio SB,699,93117,Refugio Campground,633,Hook Up (E/W/S) Campsite
+Refugio SB,699,93117,Group Camping Area,634,Group Camping
+Refugio SB,699,93117,Group Camping Area,634,Group Campsite
+El Capitan SB,8,93117,En Route Parking Lot,1965,Enroute Campsite
+Henry W Coe SP,656,95037,Coe Ranch Campground,506,Primitive Campsite
+Henry W Coe SP,656,95037,Coe Ranch Campground,506,Tent Primitive Campsite
+Henry W Coe SP,656,95037,Manzanita Point Hike-In Group Camps,519,Equestrain Group Tent Primitive Campsite
+Henry W Coe SP,656,95037,Manzanita Point Hike-In Group Camps,519,Group Tent Primitive Campsite
+Henry W Coe SP,656,95037,Poverty Flat Hike-In Group Camp,2147,Group Tent Primitive Campsite
+Seacliff SB,714,95003,Overflow (sites B6-B15),688,Campsite
+Seacliff SB,714,95003,Seacliff Campground (sites 1-26),689,Campsite
+Seacliff SB,714,95003,Seacliff Campground (sites 1-26),689,Hook Up (E/W/S) Campsite
+The Forest Of Nisene Marks SP,1218,95003,West Ridge Trail Camp,2065,Hike In Primitive Campsite
+Big Basin Redwoods SP,3,95006,Lower Blooms Creek (sites 103-138),332,Campsite
+Big Basin Redwoods SP,3,95006,Lower Blooms Creek (sites 103-138),332,Hook Up (E/W/S) Campsite
+Big Basin Redwoods SP,3,95006,Lower Blooms Creek (sites 103-138),332,Tent Campsite
+Big Basin Redwoods SP,3,95006,Sequoia Group 1 & 2,333,Group Campsite
+Big Basin Redwoods SP,3,95006,Sequoia Group 1 & 2,333,Group Tent Campsite
+Big Basin Redwoods SP,3,95006,Sempervirens Campground (sites 157-188),335,Campsite
+Big Basin Redwoods SP,3,95006,Sempervirens Campground (sites 157-188),335,Tent Campsite
+Big Basin Redwoods SP,3,95006,Huckleberry Campground (sites 42-75),336,Campsite
+Big Basin Redwoods SP,3,95006,Huckleberry Campground (sites 42-75),336,Hike in Campsite
+Big Basin Redwoods SP,3,95006,Huckleberry Campground (sites 42-75),336,Tent Campsite
+Big Basin Redwoods SP,3,95006,Wastahi Campground (sites 76-102),337,Hike in Campsite
+Big Basin Redwoods SP,3,95006,Sky Meadow Group 1 & 2,338,Group Tent Primitive Campsite
+Big Basin Redwoods SP,3,95006,Upper Blooms Creek (sites 139-156),339,Hike in Campsite
+Big Basin Redwoods SP,3,95006,Upper Blooms Creek (sites 139-156),339,Tent Campsite
+Big Basin Redwoods  SP Tent Cabins,618,95006,Huckleberry Tent Cabins,340,Cabin (4 People)
+Big Basin Redwoods  SP Tent Cabins,618,95006,Huckleberry Tent Cabins,340,Camping Package
+Big Basin Redwoods  SP Tent Cabins,618,95006,Huckleberry Tent Cabins,340,Deluxe Cabin
+Little Basin State Park,667,95006,Creekside Area,548,Cabin (8 People)
+Little Basin State Park,667,95006,Creekside Area,548,Campsite
+Little Basin State Park,667,95006,Derksen Grove,549,Hook Up (E/W) Campsite
+Little Basin State Park,667,95006,Huckleberry Area,550,Cabin (8 People)
+Little Basin State Park,667,95006,Huckleberry Area,550,Campsite
+Little Basin State Park,667,95006,Stargazers Area,551,Cabin (10 People)
+Little Basin State Park,667,95006,Stargazers Area,551,Cabin (8 People)
+Little Basin State Park,667,95006,Stargazers Area,551,Campsite
+Little Basin State Park,667,95006,Woodfern Area,552,Cabin (3 People)
+Little Basin State Park,667,95006,Woodfern Area,552,Campsite
+Big Basin Redwoods SP,3,95006,Alder Trail Camp Sites,1945,Hike In Primitive Campsite
+Big Basin Redwoods SP,3,95006,Jay Camp Bike-In Sites,1947,Bike In Primitive Campsite
+Big Basin Redwoods SP,3,95006,Jay Trail Camp,1948,Hike In Primitive Campsite
+Big Basin Redwoods SP,3,95006,Lane Trail Camp Sites,1949,Hike In Primitive Campsite
+Big Basin Redwoods SP,3,95006,Rancho Del Oso Horse Camp,1950,Equestrian Primitive Campsite
+Big Basin Redwoods SP,3,95006,Sunset Trail Camp Sites,1951,Hike In Primitive Campsite
+Big Basin Redwoods SP,3,95006,Twin Redwoods Trail Camp,1952,Hike In Primitive Campsite
+Little Basin State Park,667,95006,Deer Meadow Group Camp,2003,Group Tent Campsite
+Big Basin Redwoods SP,3,95006,Huckleberry Tent Cabins,2116,Hook Up (E/W/S) Campsite
+New Brighton SB,685,95010,Group Camping Area,596,Group Campsite
+New Brighton SB,685,95010,Campground Southern End (sites 1-43),597,Bike In Campsite
+New Brighton SB,685,95010,Campground Southern End (sites 1-43),597,Campsite
+New Brighton SB,685,95010,Campground Northern End (sites 44-111),598,Campsite
+New Brighton SB,685,95010,Campground Northern End (sites 44-111),598,Double Hook Up (E/W/S) Campsite
+New Brighton SB,685,95010,Campground Northern End (sites 44-111),598,Hook Up (E/W) Campsite
+New Brighton SB,685,95010,Campground Northern End (sites 44-111),598,Premium Campsite
+New Brighton SB,685,95010,Campground Northern End (sites 44-111),598,Tent Campsite
+Henry Cowell Redwoods SP,655,95018,Cowell Campground  South (sites 1-51),504,Campsite
+Henry Cowell Redwoods SP,655,95018,Cowell Campground  South (sites 1-51),504,Hook Up (E/W/S) Campsite
+Henry Cowell Redwoods SP,655,95018,Cowell Campground  South (sites 1-51),504,Tent Campsite
+Henry Cowell Redwoods SP,655,95018,Cowell Campground North (sites 52-113),505,Bike In Campsite
+Henry Cowell Redwoods SP,655,95018,Cowell Campground North (sites 52-113),505,Campsite
+Henry Cowell Redwoods SP,655,95018,Cowell Campground North (sites 52-113),505,Hook Up (E/W/S) Campsite
+Henry Cowell Redwoods SP,655,95018,Cowell Campground North (sites 52-113),505,Tent Campsite
+Castle Rock SP,1111,95033,Frog Flat,1956,Hike In Primitive Campsite
+Castle Rock SP,1111,95033,Main Camp Site,1957,Hike In Primitive Campsite
+Castle Rock SP,1111,95033,Waterman Gap Trail,1958,Hike In Primitive Campsite
+Wilder Ranch SP,1236,95060,Wilder Ranch SP,1104,Equestrian Campsite
+Sunset SB,726,95076,Pines Hollow Camp (sites 38-61),734,Bike In Campsite
+Sunset SB,726,95076,Pines Hollow Camp (sites 38-61),734,Campsite
+Sunset SB,726,95076,Pines Hollow Camp (sites 38-61),734,Double Hook Up (E/W/S) Campsite
+Sunset SB,726,95076,Sunset Group Area,735,Group Tent Campsite
+Sunset SB,726,95076,South Camp (sites 1-37),737,Campsite
+Sunset SB,726,95076,South Camp (sites 1-37),737,Double Hook Up (E/W/S) Campsite
+Mcarthur-Burney Falls Memorial SP,674,96013,Pioneer Camp,567,Campsite
+Mcarthur-Burney Falls Memorial SP,674,96013,Pioneer Camp,567,Hike In Primitive Campsite
+Mcarthur-Burney Falls Memorial SP,674,96013,Pioneer Camp,567,Hook Up (E ) Campsite
+Mcarthur-Burney Falls Memorial SP,674,96013,Pioneer Camp,567,Mini-Group Campsite
+Mcarthur-Burney Falls Memorial SP,674,96013,Pioneer Camp,567,Tent Campsite
+Mcarthur-Burney Falls Memorial SP,674,96013,Rim Camp (sites 1-62),569,Campsite
+Mcarthur-Burney Falls Memorial SP,674,96013,Rim Camp (sites 1-62),569,Tent Campsite
+Mcarthur-Burney Falls Mem SP Cabins,675,96013,Memorial Cabin Area,908,One Room Cabin
+Mcarthur-Burney Falls Mem SP Cabins,675,96013,Memorial Cabin Area,908,Two Room Cabin
+Mcarthur-Burney Falls Memorial SP,674,96013,Enroute,2005,Enroute Campsite
+Mcarthur-Burney Falls Memorial SP,674,96013,Headwaters Camp,2006,Equestrian Campsite
+Castle Crags SP,624,96017,Castle Crags Campground,431,Campsite
+Castle Crags SP,624,96017,Castle Crags Campground,431,Hike/Bike Campsite
+Castle Crags SP,624,96017,Castle Crags Campground,431,Tent Campsite
+Castle Crags SP,624,96017,Riverside Campground,432,Campsite
+Castle Crags SP,624,96017,Riverside Campground,432,Hook Up Campsite
+Castle Crags SP,624,96017,Riverside Campground,432,Tent Campsite
+Castle Crags SP,624,96017,Enroute,1953,Enroute Campsite
+Castle Crags SP,624,96017,Flume Environmental Camp,1954,Hike In/Bike In Campsite
+Castle Crags SP,624,96017,Lippencott Environmental Camp,1955,Hike In/Bike In Campsite
+Ahjumawi Lava Springs SP,1074,96056,Crystal Springs Campground,1937,Boat In Primitive Campsite
+Ahjumawi Lava Springs SP,1074,96056,Horr Pond Campground,1938,Boat In Primitive Campsite
+Ahjumawi Lava Springs SP,1074,96056,Ja She Creek Campground,1939,Boat In Primitive Campsite
+Benicia SRA,1090,94510,Benicia SRA,962,Hook Up (E/W/S) Campsite
+Benicia SRA,1090,94510,En Route Parking Lot,1944,Enroute Campsite
+Brannan Island SRA,621,94571,Brannan Island Berth Area,422,Boat Slip
+Brannan Island SRA,621,94571,Cottonwood Campground,423,Campsite
+Brannan Island SRA,621,94571,Sacramento Group Camping,424,Group Tent Campsite
+Brannan Island SRA,621,94571,Olympic Campground,425,Hook Up (E/W) Campsite
+Brannan Island SRA,621,94571,Ramada Day Use Area,426,Group Day Use
+Brannan Island SRA,621,94571,Walk In Campground,427,Tent Only - Walk-In
+Brannan Island SRA,621,94571,Willow Campground,428,Campsite
+Brannan Island SRA,621,94571,Willow Campground,428,Hook Up (E/W/S) Campsite
+Brannan Island SRA,621,94571,Cabin Colony,753,Cabin (4 People)
+Sonoma Coast State Park,718,94923,Wright's Beach (sites 1-27),706,Campsite
+Sonoma Coast State Park,718,94923,Wright's Beach (sites 1-27),706,Double Hook Up (E/W/S) Campsite
+Sonoma Coast State Park,718,94923,Wright's Beach (sites 1-27),706,Enroute Campsite
+Sonoma Coast State Park,718,94923,Wright's Beach (sites 1-27),706,Premium Campsite
+Sonoma Coast State Park,718,94923,Bodega Dunes,2061,Balcony
+Sonoma Coast State Park,718,94923,Bodega Dunes,2061,Campsite
+Sonoma Coast State Park,718,94923,Bodega Dunes,2061,Double Hook Up (E/W/S) Campsite
+Sonoma Coast State Park,718,94923,Bodega Dunes,2061,Hike In Primitive Campsite
+Sonoma Coast State Park,718,94923,Pomo Canyon Environmental Camp,2062,Hike In Primitive Campsite
+Sonoma Coast State Park,718,94923,Willow Creek Environmental Camp,2063,Hike In Primitive Campsite
+Austin Creek SRA,1085,95446,Bullfrog Pond Campground,1111,Hook Up (E/W/S) Campsite
+Austin Creek SRA,1085,95446,Bullfrog Pond Campground,1111,Tent Primitive Campsite
+Austin Creek SRA,1085,95446,Mannings Flat #1,1941,Tent Primitive Campsite
+Austin Creek SRA,1085,95446,Mannings Flat #2,1942,Tent Primitive Campsite
+Austin Creek SRA,1085,95446,Tom King,1943,Tent Primitive Campsite
+Salt Point SP,703,95450,Warren Group Camp Area,613,Group Tent Campsite
+Salt Point SP,703,95450,Woodside Upper Loop (sites 71-109),614,Campsite
+Salt Point SP,703,95450,Woodside Upper Loop (sites 71-109),614,Hike In Primitive Campsite
+Salt Point SP,703,95450,Woodside Upper Loop (sites 71-109),614,Hook Up (E/W/S) Campsite
+Salt Point SP,703,95450,Gerstle Cove Campground (sites 1-30),648,Campsite
+Salt Point SP,703,95450,Gerstle Cove Campground (sites 1-30),648,Enroute Campsite
+Salt Point SP,703,95450,Gerstle Cove Campground (sites 1-30),648,Hook Up (E/W/S) Campsite
+Salt Point SP,703,95450,Woodside Lower Loop (sites 31-70),649,Campsite
+Salt Point SP,703,95450,Hike and Bike Campsites,2041,Hike In Primitive Campsite
+Salt Point SP,703,95450,Overflow Camping,2042,Campsite
+Sugarloaf Ridge SP,725,95452,Group Camping Area,728,Campsite
+Sugarloaf Ridge SP,725,95452,Group Dailyuse Picnic Area,729,Group Day Use
+Sugarloaf Ridge SP,725,95452,"Campground Loop (sites 1-14, 29-50)",731,Campsite
+Sugarloaf Ridge SP,725,95452,Campground Spur (sites 15-28),733,Campsite
+Turlock Lake SRA,730,95329,Campground (sites 1-66),739,Campsite
+Turlock Lake SRA,730,95329,Campground (sites 1-66),739,Double Hook Up (E/W/S) Campsite
+Turlock Lake SRA,730,95329,Campground (sites 1-66),739,Hike/Bike Campsite
+Turlock Lake SRA,730,95329,Campground (sites 1-66),739,Hook Up (E/W/S) Campsite
+Turlock Lake SRA,730,95329,Campground (sites 1-66),739,Tent Campsite
+Woodson Bridge SRA,732,96021,Group Camping Area,746,Group Campsite
+Woodson Bridge SRA,732,96021,Bridge Campground (sites 1-37),747,Campsite
+Woodson Bridge SRA,732,96021,Kopta Canoe In,2128,Boat-In
+Colonel Allensworth SHP,630,93219,John L. Whitehead Jr. Campground,445,Campsite
+Colonel Allensworth SHP,630,93219,John L. Whitehead Jr. Campground,445,Hook Up (E/W/S) Campsite
+Columbia SHP Hotels and Cottages,631,95310,City Hotel,402,Hotel Room (Balcony)
+Columbia SHP Hotels and Cottages,631,95310,City Hotel,402,Hotel Room (Hallway)
+Columbia SHP Hotels and Cottages,631,95310,City Hotel,402,Hotel Room (Parlor)
+Columbia SHP Hotels and Cottages,631,95310,City Hotel,402,Hotel Room (Standard)
+Columbia SHP Hotels and Cottages,631,95310,Fallon Hotel,403,Hotel Room
+Columbia SHP Hotels and Cottages,631,95310,Fallon Hotel,403,Hotel Room (Balcony)
+Columbia SHP Hotels and Cottages,631,95310,Fallon Hotel,403,Hotel Room (Hall)
+Columbia SHP Hotels and Cottages,631,95310,Fallon Hotel,403,Hotel Room (Petite)
+Columbia SHP Hotels and Cottages,631,95310,Fallon Hotel,403,Hotel Room (Standard)
+Columbia SHP Hotels and Cottages,631,95310,Cottage Colony,755,Cottage (2 ppl)
+Columbia SHP Hotels and Cottages,631,95310,Cottage Colony,755,Cottage (4 ppl)
+Columbia SHP Hotels and Cottages,631,95310,Cottage Colony,755,Cottage (6 ppl)
+Mcgrath SB,677,93036,Campground Section 1 (sites 1-58),571,Campsite
+Mcgrath SB,677,93036,Campground Section 1 (sites 1-58),571,Group Camping
+Mcgrath SB,677,93036,Campground Section 1 (sites 1-58),571,Hike In Primitive Campsite
+Mcgrath SB,677,93036,Campground Section 1 (sites 1-58),571,Hook Up (E/W/S) Campsite
+Mcgrath SB,677,93036,Campground Section 3 (sites 117-174),802,Campsite
+Mcgrath SB,677,93036,Campground Section 3 (sites 117-174),802,Hook Up (E/W/S) Campsite
+Mcgrath SB,677,93036,Campground Section 2 (sites 59-116),803,Campsite
+Mcgrath SB,677,93036,Campground Section 2 (sites 59-116),803,Hook Up (E/W/S) Campsite
+Emma Wood SB,642,93001,Group Camps,473,Group (RV) Camping
+Emma Wood SB,642,93001,Group Camps,473,Group Primitive Campsite
+Emma Wood SB,642,93001,Group Camps,473,Hike In Primitive Campsite
+Emma Wood SB,642,93001,Group Camps,473,Hook Up (E/W/S) Campsite
+Emma Wood SB,642,93001,North Beach Upper (sites 1-23),475,Hook Up (E ) Campsite
+Emma Wood SB,642,93001,North Beach Upper (sites 1-23),475,Primitive Campsite
+Emma Wood SB,642,93001,North Beach Lower (sites 24-90),478,Primitive Campsite
+Emma Wood SB,642,93001,En Route Parking Lot,1966,Enroute Campsite
