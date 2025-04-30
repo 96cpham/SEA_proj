@@ -108,7 +108,28 @@ function toggleSeeMore(button) {
 
 // This calls the addCards() function when the page is first loaded
 document.addEventListener("DOMContentLoaded", showCards);
+///////////////////////////////////////////////////////////////////////////
+/*   TECHNICAL INTERVIEW PORTION
+function filterOut(){
+  const filteredArr = new arr[];
+    const searchTerm = document.getElementById("search-bar").value.toLowerCase();
+  for i = 0; i > formedArr.size; i++ in formedArr {
+    if (searchTerm != zipcode){
+      filteredArr[i] = formedArr
 
+      }
+  }
+   // Retrieve the text from the filterInput search bar 
+   const filterText = document.getElementById('filterInput').value.toLowerCase()
+   // rest of your function below: 
+   
+}
+//check input
+//create new array
+//check all object zipcodes if there is any overlap
+//any objects that do not match the input will be put into the new array
+//items that are kept will be put into a new array and sent to showCads function
+*/
 
 ////////////////////////////////////////////////////////////////////////////
 function filterCards() {
